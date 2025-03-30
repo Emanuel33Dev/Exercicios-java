@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ContagemRegressiva
+public class ContagemProgressiva
 {
     public static void main(String[] args)
     {
